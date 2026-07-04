@@ -3,9 +3,9 @@
 - I am a pragmatic problem solver who values consensus in a team 🤝
 
 - I believe that all robust solutions start with asking the right ❓ and
-I am always keen to ensure that my peers are behind the proposed technical solution
+I am always keen to ensure that my peers are on board with a technical solution
 
-- I value balance ⚖️ between innovation 💡 and 🤓 technical myopia
+- I value balance ⚖️ between innovation 💡 and technical myopia 🤓
   
 - I work best in a team that values collaboration, transparency and continuous improvement and is given the space to reflect 💭, experiment 🧩 and learn 📚💻
 
@@ -23,4 +23,4 @@ I am always keen to ensure that my peers are behind the proposed technical solut
 
 - promoted code quality, readability and architecture decision transparency by creating and contributing to project-related ADRs and RFCs 📝
 
-- ran and revamped team scrum ceremonies to minimize scope creep and foster space for retrospection 💭 and brainstorming 💡 on a regular basis
+- ran team scrum ceremonies in a way that minimized scope creep and fostered space for regular retrospection 💭 and brainstorming 💡
